@@ -6,7 +6,7 @@ This is a small Go program that fetches the latest Known Exploited Vulnerabiliti
 
 This project was created as a demonstration of my interest in vulnerability research and my ability to automate tasks related to threat intelligence. It's specifically tailored to showcase skills relevant to the Vulnerability Researcher role at runZero.
 
-By monitoring the CISA KEV catalog for specific terms, this script can help proactively identify actively exploited vulnerabilities that might be of interest for further analysis and understanding of attack vectors.
+This project was created out of a personal interest in vulnerability research and the proactive monitoring of emerging security threats. By tracking the CISA KEV catalog for specific terms, this script aims to identify actively exploited vulnerabilities for further analysis and understanding of attack vectors.
 
 ## How to Run
 
@@ -28,7 +28,7 @@ The script currently filters the CISA KEV catalog for the following keywords:
 * `internet-connected devices`
 * `zero-day`
 
-These keywords were chosen to align with the focus of the Vulnerability Researcher role at runZero, particularly in understanding how vulnerabilities are found, how they are exploited, the methods attackers use, the types of assets involved, and the importance of emerging threats.
+These keywords were chosen to align with key areas of interest within vulnerability research, including the methods of finding vulnerabilities, how they are leveraged by attackers, common attack pathways, the security of networked devices, and emerging, critical threats.
 
 ## Next Steps and Potential Enhancements
 
