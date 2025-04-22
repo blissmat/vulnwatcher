@@ -49,4 +49,4 @@ This is a basic version of a vulnerability watcher. Potential future enhancement
 
 ## Contact
 
-Brian Blissett - brian.blissett@outlook.com - https://www.linkedin.com/in/brian-blissett-ms-15182617/
+Brian Blissett - https://www.linkedin.com/in/brian-blissett-ms-15182617/
