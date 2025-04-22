@@ -4,9 +4,7 @@ This is a small Go program that fetches the latest Known Exploited Vulnerabiliti
 
 ## Purpose
 
-This project was created as a demonstration of my interest in vulnerability research and my ability to automate tasks related to threat intelligence. It's specifically tailored to showcase skills relevant to the Vulnerability Researcher role at runZero.
-
-This project was created out of a personal interest in vulnerability research and the proactive monitoring of emerging security threats. By tracking the CISA KEV catalog for specific terms, this script aims to identify actively exploited vulnerabilities for further analysis and understanding of attack vectors.
+This project was created out of a personal interest in vulnerability research and the proactive monitoring of emerging security threats. By tracking the CISA KEV catalog for specific terms, this script aims to identify actively exploited vulnerabilities for further analysis and understanding of attack vectors..
 
 ## How to Run
 
