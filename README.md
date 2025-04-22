@@ -49,4 +49,4 @@ This is a basic version of a vulnerability watcher. Potential future enhancement
 
 ## Contact
 
-[Your Name] - [Your Email Address (Optional)] - [Your LinkedIn Profile URL (Optional)]
+Brian Blissett - [Your Email Address (Optional)] - https://www.linkedin.com/in/brian-blissett-ms-15182617/
